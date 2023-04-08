@@ -1,0 +1,157 @@
+.main {
+  text-align: center
+}
+
+body {
+  font-size: 15pt;
+  color: black;
+  background-image: linear-gradient(Red, blue);
+
+
+}
+
+.btn {
+  border: solid;
+  border-radius: 50px;
+  border-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+.btn1 {
+  border: solid;
+  border-radius: 50%;
+  border-color: black;
+  color: white;
+  text-decoration: none;
+  font-size: 5pt;
+}
+.account-btn {
+  background-color: #380057;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+}
+
+.hidden {
+  border: none;
+  color: transparent;
+  background-color: transparent;
+}
+.landing {
+  left: 43%;
+  border: solid;
+  border-color: black;
+  background-color: #460080;
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  position: absolute;
+}
+.welcome {
+  font-size: 12pt;
+  text-decoration: underline;
+}
+.account-form {
+  text-align: center;
+}
+
+.profile1 {
+  border: solid;
+  border-color: black;
+  border-radius: 50px;
+  color: #3b3b3b;
+  width: 10%;
+  left: 1%;
+  top: 5%;
+}
+.social {
+  right: 5;
+  color: ghostwhite;
+  text-decoration: none;
+}
+.text{
+  color: ghostwhite;
+  text-decoration: none;
+}
+.post-form {
+  position: absolute;
+  background: transparent;
+  margin: auto;
+  align-content: center;
+  right: 50;
+  bottom: 50;
+}
+
+.container { margin: 25px auto; position: relative; width: 900px; }
+#content {
+  background: #f9f9f9;
+  background: -moz-linear-gradient(top,  rgba(248,248,248,1) 0%, rgba(249,249,249,1) 100%);
+  background: -webkit-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+  background: -o-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+  background: -ms-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+  background: linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#f9f9f9',GradientType=0 );
+  -webkit-box-shadow: 0 1px 0 #fff inset;
+  -moz-box-shadow: 0 1px 0 #fff inset;
+  -ms-box-shadow: 0 1px 0 #fff inset;
+  -o-box-shadow: 0 1px 0 #fff inset;
+  box-shadow: 0 1px 0 #fff inset;
+  border: 1px solid #c4c6ca;
+  margin: 0 auto;
+  margin-top: 35%;
+  padding: 25px 0 0;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 1px 0 #fff;
+  width: 400px;
+  background-image: linear-gradient(to right, darkgreen, midnightblue);
+}
+.form-i {
+  width: 350px;
+  margin: auto;
+}
+.submit-btn {
+  width: 100px;
+  height: 50px;
+  border: solid;
+  border-radius: 175px;
+  
+}
+.copy {
+  color: white;
+  text-decoration: underline;
+  font-size: 10pt;
+}
+.post-content {
+  height: 200px;
+  width: 400px;
+}
+.post-name {
+  width: 350px;
+}
+.buttons {
+  padding: 5px;
+  border: solid;
+  border-color: black;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+.divider {
+  width: 65%;
+  left: 1px;
+}
+.posts {
+  border-color: black;
+  color: white;
+  border: solid;
+  border-radius: 15px;
+  width: 500px;
+}
