@@ -3,16 +3,20 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="contact form example">
+    <meta name="description" content="contact form example"><link rel="icon" href="https://cdn4.cursedbotsxyz.repl.co/uploads/icon.png"/>
   <title>Contact Support</title>
 </head>
 
 <body>
   <h2 class="content-head is-center">Contact Us!</h2>
   <aside>
+<button onclick=location.href="/index.html">Home</button>
        <p>
            Here at CursedBots we believe customer/user feedback is important so if you found a problem with one of our services please tell us about it so we can resolve the issue.
        </p>
+    Check out other ways to get help
+      <a href="/support/chat.html">Chat with others</a>
+      <a href="/support/forum.html">Forum</a>
    </aside>
 
 <!-- START HERE -->
@@ -56,7 +60,8 @@
     <!-- Customise the Thankyou Message People See when they submit the form: -->
     <div class="thankyou_message" style="display:none;">
       <h2><em>Thanks</em> for contacting us!
-        We will get back to you soon!</h2>
+        We will get back to you soon!</h2><br>
+      
     </div>
 
   </form>
@@ -64,6 +69,6 @@
   <!-- Submit the Form to Google Using "AJAX" -->
   <script data-cfasync="false" src="/scripts/form-submission-handler.js"></script>
 <!-- END -->
-
+  
 </body>
 </html>
