@@ -1,7 +1,10 @@
 # CBTS-V5
 
 # Badges
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PixelatedPurple/CBTS-V5"> <img alt="GitHub release" src="https://img.shields.io/github/v/release/PixelatedPurple/CBTS-V5?include_prereleases"> <img alt="Website" src="https://img.shields.io/website?down_color=Red&down_message=Offline&label=CursedBots&style=plastic&up_color=Green&up_message=Online&url=https%3A%2F%2Fcursedbots.xyz"> <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/PixelatedPurple/CBTS-V5/Production?label=Build"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2023?label=Maintenance%20Status"> <a src="https://img.shields.io/badge/CBTS-V5-Hardenize%20%7C%20Verified-gold" alt="Hardenize">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PixelatedPurple/CBTS-V5?style=social">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/PixelatedPurple/CBTS-V5?style=social"> 
+<img alt="Website" src="https://img.shields.io/website?down_color=Red&down_message=Offline&label=CursedBots%20Website&style=plastic&up_color=Green&up_message=Online&url=https%3A%2F%2Fcursedbots.xyz"> 
+<img src="https://img.shields.io/badge/CBTS--V5-Hardenize%20%7C%20Verified-informational" alt="Hardenize">
 
 # Info 
 
