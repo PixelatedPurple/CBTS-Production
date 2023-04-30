@@ -5,4 +5,18 @@
 
 # Info 
 
-This repository focuses on merging all CursedBots products into one place for you to find. We've made it easy to find and use all of our services quickly and easily. We've even customized our plans in competition  industry leading companies 
+This repository focuses on merging all CursedBots products into one place for you to find. We've made it easy to find and use all of our services quickly and easily. We've even customized our plans in competition with industry leading companies. For more inforamtion you can check our plans out <a href="https://cursedbots.xyz/plans/index.html">Here</a>. <br>
+  
+  
+  # Disclaimer
+  
+  This repository is for education uses only!! The use and production of this material is banned. All images, logos, names, etc are copyright of CursedBots.inc 
+
+  violators will be prosecuted to the fullest extent of the law!
+  
+  # Status 
+  
+  <img src="https://img.shields.io/badge/Uptime-Online-brightgreen"/>
+  <img src="https://img.shields.io/badge/Maintenance-DISABLED-red"/>
+  <img src="https://img.shields.io/badge/Production-DEPLOYED-blue"/>
+  <img src="https://img.shields.io/badge/CursedBots-V--5-gold"/>
