@@ -17,6 +17,6 @@ This repository focuses on merging all CursedBots products into one place for yo
   # Status 
   
   <img src="https://img.shields.io/badge/Uptime-Online-brightgreen"/>
-  <img src="https://img.shields.io/badge/Maintenance-DISABLED-red"/>
+  <img src="https://img.shields.io/badge/Maintenance%20Mode-DISABLED-red"/>
   <img src="https://img.shields.io/badge/Production-DEPLOYED-blue"/>
   <img src="https://img.shields.io/badge/CursedBots-V--5-gold"/>
