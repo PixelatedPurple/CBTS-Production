@@ -1,26 +1,23 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import React, { useState, useEffect } from "react";
+import API from "./api";
 
 function App() {
-    const [status, setStatus] = useState('');
+    const [status, setStatus] = useState("");
     const [services, setServices] = useState([]);
     const [ads, setAds] = useState([]);
 
     useEffect(() => {
-        // Fetch server status
-        axios.get('/api/status')
-            .then((response) => setStatus(response.data.status))
-            .catch((error) => console.error(error));
+        API.get("/status").then((response) => {
+            setStatus(response.data.status);
+        });
 
-        // Fetch services
-        axios.get('/api/services')
-            .then((response) => setServices(response.data))
-            .catch((error) => console.error(error));
+        API.get("/services").then((response) => {
+            setServices(response.data);
+        });
 
-        // Fetch ads
-        axios.get('/api/ads')
-            .then((response) => setAds(response.data))
-            .catch((error) => console.error(error));
+        API.get("/ads").then((response) => {
+            setAds(response.data);
+        });
     }, []);
 
     return (
