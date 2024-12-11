@@ -28,7 +28,7 @@ Welcome to **CursedBots v6**! This project showcases a secure, fully-featured pl
 
 ## Getting Started
 
-To get this project up and running locally:
+To get this project up and running locally
 
 ### Prerequisites
 
