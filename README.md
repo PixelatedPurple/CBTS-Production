@@ -1,7 +1,7 @@
 # CBTS-V6
 
 # Badges
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PixelatedPurple/CBTS-Production/blob/V6?style=social">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PixelatedPurple/CBTS-Production?style=social">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/PixelatedPurple/CBTS-Production/blob/V6?style=social"> 
 <img alt="Website" src="https://img.shields.io/website?down_color=Red&down_message=Offline&label=CursedBots%20Website&style=plastic&up_color=Green&up_message=Online&url=https%3A%2F%2Fcursedbots.xyz"> 
 <img src="https://img.shields.io/badge/CBTS--V6-Hardenize%20%7C%20Verified-informational" alt="Hardenize">
